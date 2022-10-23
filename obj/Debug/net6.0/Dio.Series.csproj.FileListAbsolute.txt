@@ -1,0 +1,15 @@
+/Users/oberdanmarinho/Projects/Studies/Dio.Sepro-Cadastro.Series/Dio.Series/bin/Debug/net6.0/Dio.Series
+/Users/oberdanmarinho/Projects/Studies/Dio.Sepro-Cadastro.Series/Dio.Series/bin/Debug/net6.0/Dio.Series.deps.json
+/Users/oberdanmarinho/Projects/Studies/Dio.Sepro-Cadastro.Series/Dio.Series/bin/Debug/net6.0/Dio.Series.runtimeconfig.json
+/Users/oberdanmarinho/Projects/Studies/Dio.Sepro-Cadastro.Series/Dio.Series/bin/Debug/net6.0/Dio.Series.dll
+/Users/oberdanmarinho/Projects/Studies/Dio.Sepro-Cadastro.Series/Dio.Series/bin/Debug/net6.0/Dio.Series.pdb
+/Users/oberdanmarinho/Projects/Studies/Dio.Sepro-Cadastro.Series/Dio.Series/obj/Debug/net6.0/Dio.Series.csproj.AssemblyReference.cache
+/Users/oberdanmarinho/Projects/Studies/Dio.Sepro-Cadastro.Series/Dio.Series/obj/Debug/net6.0/Dio.Series.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oberdanmarinho/Projects/Studies/Dio.Sepro-Cadastro.Series/Dio.Series/obj/Debug/net6.0/Dio.Series.AssemblyInfoInputs.cache
+/Users/oberdanmarinho/Projects/Studies/Dio.Sepro-Cadastro.Series/Dio.Series/obj/Debug/net6.0/Dio.Series.AssemblyInfo.cs
+/Users/oberdanmarinho/Projects/Studies/Dio.Sepro-Cadastro.Series/Dio.Series/obj/Debug/net6.0/Dio.Series.csproj.CoreCompileInputs.cache
+/Users/oberdanmarinho/Projects/Studies/Dio.Sepro-Cadastro.Series/Dio.Series/obj/Debug/net6.0/Dio.Series.dll
+/Users/oberdanmarinho/Projects/Studies/Dio.Sepro-Cadastro.Series/Dio.Series/obj/Debug/net6.0/refint/Dio.Series.dll
+/Users/oberdanmarinho/Projects/Studies/Dio.Sepro-Cadastro.Series/Dio.Series/obj/Debug/net6.0/Dio.Series.pdb
+/Users/oberdanmarinho/Projects/Studies/Dio.Sepro-Cadastro.Series/Dio.Series/obj/Debug/net6.0/Dio.Series.genruntimeconfig.cache
+/Users/oberdanmarinho/Projects/Studies/Dio.Sepro-Cadastro.Series/Dio.Series/obj/Debug/net6.0/ref/Dio.Series.dll
